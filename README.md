@@ -1,8 +1,8 @@
-<<<<<<< HEAD:README.md
+
 # Hi, I'm Raymond 👋
-=======
+
 ### 👋 Hi, I'm Raymond
->>>>>>> 113bedaa2ff6fac0040f61e0d1788c4538674570:readme
+
 
 Full-stack JavaScript developer building **practical tools for real businesses**.
 
