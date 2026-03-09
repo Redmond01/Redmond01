@@ -1,4 +1,4 @@
-# Hi, I'm Redmond 👋
+# Hi, I'm Raymond 👋
 
 Full-stack JavaScript developer focused on building practical tools that help businesses operate more efficiently.
 
