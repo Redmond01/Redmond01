@@ -1,6 +1,3 @@
-
-# Hi, I'm Raymond 👋
-
 ### 👋 Hi, I'm Raymond
 
 
